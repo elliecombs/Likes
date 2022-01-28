@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    border: 0;  
+    box-sizing: border-box; 
+}
+
+.box {
+    border: 2px solid black;
+    width: 410px;
+    padding: 30px;
+    justify-content: space-evenly;
+}
+
+.btn1 {
+    background-color: rgb(238, 225, 46);
+    color: black;
+    box-shadow: 4px 4px black;
+    margin-left: 25px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+span {
+    margin-left: 75px;
+}
+
+
